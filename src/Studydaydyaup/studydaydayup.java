@@ -11,5 +11,6 @@ public class studydaydayup {
         
         System.out.println("伟大领袖毛主席");
         System.out.println("pull Test!");
+        System.out.println("pull Test!");
     }
 }
