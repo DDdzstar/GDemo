@@ -6,5 +6,6 @@ public class studydaydayup {
         System.out.println("伟大领袖毛主席");
         System.out.println("邓导好帅");
         System.out.println("Dd好帅");
+        System.out.println("master test!");
     }
 }
