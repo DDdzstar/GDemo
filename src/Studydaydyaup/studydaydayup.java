@@ -5,5 +5,6 @@ public class studydaydayup {
         System.out.println("好好学习，天天向上。");
         System.out.println("伟大领袖毛主席");
         System.out.println("邓导好帅");
+        System.out.println("Dd好帅");
     }
 }
