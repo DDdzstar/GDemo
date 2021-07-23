@@ -8,5 +8,8 @@ public class studydaydayup {
         System.out.println("Dd好帅");
         System.out.println("master test!");
         System.out.println("Hot-fix");
+        
+        System.out.println("伟大领袖毛主席");
+        System.out.println("pull Test!");
     }
 }
